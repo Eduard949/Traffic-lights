@@ -1,0 +1,34 @@
+img{
+width: 350px;
+}
+
+#red {
+  position: absolute;
+  top: 45px;
+  left: 137px;
+  width: 100px;
+  height: 100px;
+  background: black;
+  border-radius: 50px;
+}
+
+#yellow {
+  position: absolute;
+  top: 150px;
+  left: 137px;
+  width: 100px;
+  height: 100px;
+  background: black;
+  border-radius: 50px;
+}
+
+#green {
+  position: absolute;
+  top: 255px;
+  left: 137px;
+  width: 100px;
+  height: 100px;
+  background: black;
+  border-radius: 50px;
+}
+
